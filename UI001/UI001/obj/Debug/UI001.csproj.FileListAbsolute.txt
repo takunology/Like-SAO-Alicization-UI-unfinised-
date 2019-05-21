@@ -1,0 +1,15 @@
+F:\プログラミング\ProjectAlicization\UI001\UI001\bin\Debug\UI001.exe.config
+F:\プログラミング\ProjectAlicization\UI001\UI001\bin\Debug\UI001.exe
+F:\プログラミング\ProjectAlicization\UI001\UI001\bin\Debug\UI001.pdb
+F:\プログラミング\ProjectAlicization\UI001\UI001\obj\Debug\UI001.csprojAssemblyReference.cache
+F:\プログラミング\ProjectAlicization\UI001\UI001\obj\Debug\MainWindow.g.cs
+F:\プログラミング\ProjectAlicization\UI001\UI001\obj\Debug\App.g.cs
+F:\プログラミング\ProjectAlicization\UI001\UI001\obj\Debug\UI001_MarkupCompile.cache
+F:\プログラミング\ProjectAlicization\UI001\UI001\obj\Debug\UI001_MarkupCompile.lref
+F:\プログラミング\ProjectAlicization\UI001\UI001\obj\Debug\MainWindow.baml
+F:\プログラミング\ProjectAlicization\UI001\UI001\obj\Debug\UI001.g.resources
+F:\プログラミング\ProjectAlicization\UI001\UI001\obj\Debug\UI001.Properties.Resources.resources
+F:\プログラミング\ProjectAlicization\UI001\UI001\obj\Debug\UI001.csproj.GenerateResource.cache
+F:\プログラミング\ProjectAlicization\UI001\UI001\obj\Debug\UI001.csproj.CoreCompileInputs.cache
+F:\プログラミング\ProjectAlicization\UI001\UI001\obj\Debug\UI001.exe
+F:\プログラミング\ProjectAlicization\UI001\UI001\obj\Debug\UI001.pdb
